@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C6DDDC3-CB30-4BF0-8710-883B4B66303C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DB2FDEA-010E-42CE-A0AC-FFEF6D050367"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F92EB4E8-520F-45F3-A07E-5BD26FBF2EB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/Dish+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "createDishesFrom(menuItems:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F92EB4E8-520F-45F3-A07E-5BD26FBF2EB1 - 176a1a60d6f917c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static M4Exercise.Dish.createDishesFrom(menuItems: Swift.Array&lt;M4Exercise.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bruceburgess/Documents/Classes/Coursera/Meta%20iOS/M4Exercise/M4Exercise/OUR%20DISHES/Dish+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "F92EB4E8-520F-45F3-A07E-5BD26FBF2EB1 - 176a1a60d6f917c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static M4Exercise.Dish.createDishesFrom(menuItems: Swift.Array&lt;M4Exercise.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bruceburgess/Documents/Classes/Coursera/Meta%20iOS/M4Exercise/M4Exercise/OUR%20DISHES/Dish+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
